@@ -1,4 +1,4 @@
-# Projeto curso da Origamid Portfolio
+# Projeto do curso Origamid - Portfolio
 
 Esse é meu primeiro projeto adicionado ao github, nele usei todo conhecimento passado no curso da ORIGAMID, que envolve HTML,CSS e UI Design.
 
